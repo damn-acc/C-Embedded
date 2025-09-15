@@ -35,7 +35,9 @@ int main() {
         calculateFunctions(alpha, &z1, &z2);
 
         printf("z1 = %.6f\nz2 = %.6f\n%s", z1, z2, exitMessage);
+        
         key = getchar();
+        clearInputBuffer();
     } while (key != 27); // 27 is the ASCII code for 'esc'
     return 0;
 }
@@ -56,5 +58,5 @@ void calculateFunctions(float alpha, double *z1, double *z2) {
 
 void clearInputBuffer() {
     int ch;
-    while ((ch = getchar()) != '\n' && ch != EOF); // clear input buffer
+    while ((ch = getchar()) != '\n'); // clear input buffer
 }
