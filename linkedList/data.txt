@@ -1,0 +1,7 @@
+Harry Potter and the Philosopher's Stone;486.000000;223;English;0.500000;1997
+Harry Potter and the Chamber of Secrets;485.000000;251;English;0.510000;1998
+Harry Potter and the Prisoner of Azkaban;486.000000;317;English;0.620000;1999
+Harry Potter and the Goblet of Fire;539.000000;636;English;0.900000;2000
+Harry Potter and the Order of the Phoenix;540.000000;766;English;1.100000;2003
+Harry Potter and the Half-Blood Prince;539.000000;607;English;0.920000;2005
+Harry Potter and the Deathly Hallows;548.000000;607;English;0.910000;2007
